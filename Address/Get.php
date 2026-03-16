@@ -1,9 +1,10 @@
 <?php
-/**	op-unit-bitcoin-rpc:/ci/Address/Get.php
+/**	op-unit-bitcoin-ci:/Address/Get.php
  *
  * @created    2026-01-25
  * @license    Apache-2.0
- * @package    op-unit-bitcoin-rpc
+ * @package    op-unit-bitcoin
+ * @subpackage ci
  * @copyright  Tomoaki Nagahara
  */
 

@@ -3,7 +3,8 @@
  *
  * @created    2026-01-25
  * @license    Apache-2.0
- * @package    op-unit-bitcoin-ci
+ * @package    op-unit-bitcoin
+ * @subpackage ci
  * @copyright  Tomoaki Nagahara
  */
 

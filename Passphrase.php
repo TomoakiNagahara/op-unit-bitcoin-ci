@@ -1,9 +1,10 @@
 <?php
-/**	op-unit-bitcoin-rpc:/ci/RPC/Passphrase.php
+/**	op-unit-bitcoin-ci:/Passphrase.php
  *
  * @created    2026-02-28
  * @license    Apache-2.0
- * @package    op-unit-bitcoin-rpc
+ * @package    op-unit-bitcoin
+ * @subpackage ci
  * @copyright  Tomoaki Nagahara
  */
 

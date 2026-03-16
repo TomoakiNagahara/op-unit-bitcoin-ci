@@ -1,9 +1,10 @@
 <?php
-/**	op-unit-bitcoin-rpc:/ci/RPC/SendToAddress.php
+/**	op-unit-bitcoin-ci:/RPC/SendToAddress.php
  *
  * @created    2026-02-01
  * @license    Apache-2.0
- * @package    op-unit-bitcoin-rpc
+ * @package    op-unit-bitcoin
+ * @subpackage ci
  * @copyright  Tomoaki Nagahara
  */
 
