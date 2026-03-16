@@ -27,5 +27,5 @@ $method = explode('.', $method)[0];
 $wallet  = 'testcase';
 $address = 'testcase';
 $args    = [$wallet, $address];
-$result  =  0.0;
+$result  =  false;
 $ci->Set($method, $result, $args);
